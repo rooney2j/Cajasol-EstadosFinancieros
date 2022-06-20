@@ -1,0 +1,18 @@
+Crear, guardar y copiar datos a un nuevo libro de trabajo
+https://www.youtube.com/watch?v=ARqiTvjsyuE
+
+Utilidad del offset
+https://www.excel-avanzado.com/2856/utilidad-del-offset.html
+
+Qué son los módulos de clase
+https://blog.excelforo.com/2016/08/vba-los-modulos-de-clase-en-excel-class.html
+https://www.youtube.com/watch?v=LLJmZ9PWdgU
+
+Crear hojas de excel con VBA
+https://exceltotal.com/como-crear-hojas-de-excel-con-vba/
+
+Método Find
+https://docs.microsoft.com/en-us/office/vba/api/excel.range.find
+
+Renombrar una hoja con VBA
+https://es.education-wiki.com/9565367-vba-rename-sheet
